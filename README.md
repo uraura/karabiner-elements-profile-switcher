@@ -22,7 +22,7 @@ $ go get -d github.com/uraura/karabiner-elements-profile-switcher
 2. copy switcher.lua to `$HOME/.hammerspoon` and change command paths, msgs, etc...
 3. add following to 'init.lua'
 
-   require 'switcher'
+       require 'switcher'
 
 ## Contribution
 
